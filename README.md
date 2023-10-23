@@ -1,4 +1,2 @@
-# delta
-Hello.
-# dinkar
-hello world
+# New Project
+This project was created by local system.
